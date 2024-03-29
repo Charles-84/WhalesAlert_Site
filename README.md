@@ -1,6 +1,6 @@
 # Whales-Alert.fr
 
-Welcome to **Whales-Alert.fr** - Your vigilant lookout for cryptocurrency market movements! Our service specializes in analyzing blockchain transactions, with a keen focus on low market cap cryptocurrencies. We are currently in our alpha testing phase and are excited to roll out our service to the public soon.
+Welcome to [**Whales-Alert.fr**](https://whales-alert.fr/) - Your vigilant lookout for cryptocurrency market movements! Our service specializes in analyzing blockchain transactions, with a keen focus on low market cap cryptocurrencies. We are currently in our alpha testing phase and are excited to roll out our service to the public soon.
 
 ![Cover Page with Trends](cover-page.jpg)
 
